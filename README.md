@@ -5,7 +5,7 @@
 ### Reg.no : 212225240101 
 
 
-
+ 
 
 This repository contains a PyTorch implementation of a binary classification model that predicts whether an individual earns more than $50,000 annually based on the Census Income Dataset.
 
